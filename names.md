@@ -1,4 +1,4 @@
-# Naam: Vik
+ # Naam: Vik
 # Jarne V. 
 # Stan Moedbeck
 # Jarne V.
@@ -9,6 +9,8 @@
 # Lisa Hermans
 # Noah M.
 #Matthias H.
+# WANNES MUSKALA
+
 # Matisse Geleyn
 # Mathijs
 Thomas VDV
