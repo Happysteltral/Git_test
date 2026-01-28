@@ -10,3 +10,8 @@
 # Noah M.
 #Matthias H.
 # Mathijs
+Thomas VDV
+
+#Onur O.
+#wout D.N.
+# Jules Platteaux
